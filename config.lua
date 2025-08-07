@@ -1,5 +1,0 @@
-local ADDON_NAME, ns = ...
-
-ns.POLL_INTERVAL = 0.2
-ns.SHOW_IN_WORLD = true
-ns.SOUND_ON_LOSS = SOUNDKIT.RAID_WARNING

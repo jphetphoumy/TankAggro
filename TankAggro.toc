@@ -1,9 +1,7 @@
-## Interface: 100105
-## Title: Tank Aggro
-## Author: TankAggro Contributors
-## Version: 0.1.0
-## Notes: Displays aggro information for tanks
+## Interface: 110200
+## Title: TankAggroAlert
+## Author: Jphetphoumy
+## Version: 1.1
+## Notes: Shows which mobs you have aggro on, which you lost, and who in your group has it.
 
-config.lua
-ui.lua
 core.lua
