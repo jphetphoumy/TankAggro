@@ -1,6 +1,9 @@
-# Interface: 110200
-# Title: TankAggroAlert
-# Notes: Shows when you lose aggro on visible enemies (nameplates).
-# Author: Jphetphoumy 
-# Version: 1.2
-Core.lua
+## Interface: 100105
+## Title: Tank Aggro
+## Author: TankAggro Contributors
+## Version: 0.1.0
+## Notes: Displays aggro information for tanks
+
+config.lua
+ui.lua
+core.lua
